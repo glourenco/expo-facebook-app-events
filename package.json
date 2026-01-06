@@ -4,6 +4,17 @@
   "description": "Expo config plugin to configure Facebook (Meta) SDK App Events (works with react-native-fbsdk-next).",
   "main": "index.js",
   "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "app.plugin.js",
+    "plugin/**/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "expo",
     "expo-plugin",
