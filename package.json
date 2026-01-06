@@ -1,6 +1,6 @@
 {
   "name": "expo-facebook-app-events",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expo config plugin to configure Facebook (Meta) SDK App Events (works with react-native-fbsdk-next).",
   "main": "index.js",
   "types": "index.d.ts",
@@ -41,5 +41,3 @@
     "@expo/config-plugins": "^8.0.0"
   }
 }
-
-
